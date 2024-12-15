@@ -1,4 +1,7 @@
 # PCB-Wled
 PCB to connect ws2812b led strip
 
-![pcb](pcb.png)
+![Schematic](Schematic.png)
+
+
+![pcb](PCB.png)
